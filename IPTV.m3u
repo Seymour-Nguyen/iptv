@@ -17,5 +17,7 @@ http://1.53.178.109:6606/udp/225.1.2.96:30120
 http://1.53.178.109:6606/udp/225.1.2.166:30120
 #EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 HD
 
-#EXTINF:-1 tvg-name="VTC1-ClipTV" group-title="VTC/VOV",VTC1 HD
+#EXTINF:-1 tvg-name="VTC1HD" group-title="VTC",VTC1 HD
 http://1.53.178.109:6606/udp/225.1.2.254:30120
+#EXTINF:-1 tvg-name="VTC3HD" group-title="VTC",VTC3 HD
+http://1.53.178.109:6606/udp/225.1.2.251:30120
